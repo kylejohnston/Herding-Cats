@@ -1,0 +1,22 @@
+{
+  "name": "herding-cats",
+  "version": "1.0.0",
+  "description": "Communication can make or break any project. And consistently maintaining good communication can feel like herding cats. Learn how the false consensus effect and various facets of communication can work for you and help keep people and projects moving in a positive direction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylejohnston/Herding-Cats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylejohnston/Herding-Cats/issues"
+  },
+  "homepage": "https://github.com/kylejohnston/Herding-Cats#readme",
+  "dependencies": {
+    "marked": "^4.0.12"
+  }
+}
